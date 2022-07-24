@@ -12,7 +12,7 @@ Once you've worked through the introduction you can progress onto the next lab w
 
 **Part 2: Linear Regression** [![Part 2: Linear Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFPyGFlmemn5Z-xGLHrxpbu4KMCsilkN)
 
-Finally, the last part of the lab introduces you to what is a known as a linear classifier (ask us why!), implemented with an algorithm called logisitic regression:
+Finally, the last part of the lab introduces you to what is a known as a _linear classifier_ (ask us why!), implemented with an algorithm called logisitic regression:
 
 **Part 3: Logistic Regression** [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun)
 
