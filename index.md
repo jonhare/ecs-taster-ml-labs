@@ -6,14 +6,14 @@ These lab sessions are going to use the `python` language together with a widely
 
 To get started we're going to take a crash course in `python` and `numpy`. Click the link below to open the first part of the lab. If you have a Google account you might want to log in so you can save your progress to your Google Drive by making a copy of the lab "notebook" by pressing the "Copy to Drive" button near the top left of the Colab interface.
 
-**Part 1: Intro to Python & Numpy**: [![Part 1: Intro to Python & Numpy](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CPSvlF1jvMq9v9zdbyYsH54ypYh4npr6){:target="_blank"}
+Part 1: Intro to Python & Numpy: [![Part 1: Intro to Python & Numpy](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CPSvlF1jvMq9v9zdbyYsH54ypYh4npr6){:target="_blank"}
 
 Once you've worked through the introduction you can progress onto the next lab where you'll implement a simple, but extremely powerful machine learning model called linear regression. 
 
-**Part 2: Linear Regression**: [![Part 2: Linear Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFPyGFlmemn5Z-xGLHrxpbu4KMCsilkN){:target="_blank"}
+Part 2: Linear Regression: [![Part 2: Linear Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFPyGFlmemn5Z-xGLHrxpbu4KMCsilkN){:target="_blank"}
 
 Finally, the last part of the lab introduces you to what is a known as a _linear classifier_ (ask us why!), implemented with an algorithm called logisitic regression:
 
-**Part 3: Logistic Regression**: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"}
+Part 3: Logistic Regression: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"}
 
 Have fun & ask questions!
