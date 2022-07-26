@@ -6,14 +6,14 @@ These lab sessions are going to use the `python` language together with a widely
 
 To get started we're going to take a crash course in `python` and `numpy`. Click the link below to open the first part of the lab. If you have a Google account you might want to log in so you can save your progress to your Google Drive by making a copy of the lab "notebook" by pressing the "Copy to Drive" button near the top left of the Colab interface.
 
-Part 1: Intro to Python & Numpy: [![Part 1: Intro to Python & Numpy](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CPSvlF1jvMq9v9zdbyYsH54ypYh4npr6){:target="_blank"} [download](https://raw.githubusercontent.com/jonhare/ecs-taster-ml-labs/main/Intro%20to%20Python%20%26%20Numpy.ipynb?token=GHSAT0AAAAAABWTI7ES2LO5BHESXNOMMHZSYW75PPQ){:download="Intro to Python Numpy.ipynb"}
+Part 1: Intro to Python & Numpy: [![Part 1: Intro to Python & Numpy](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CPSvlF1jvMq9v9zdbyYsH54ypYh4npr6){:target="_blank"} [download](https://ml.compsci.school/Intro%20to%20Python%20%26%20Numpy.ipynb){:download="Intro to Python Numpy.ipynb"}
 
 Once you've worked through the introduction you can progress onto the next lab where you'll implement a simple, but extremely powerful machine learning model called linear regression. 
 
-Part 2: Linear Regression: [![Part 2: Linear Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFPyGFlmemn5Z-xGLHrxpbu4KMCsilkN){:target="_blank"} [download](https://raw.githubusercontent.com/jonhare/ecs-taster-ml-labs/main/Linear%20Regression.ipynb?token=GHSAT0AAAAAABWTI7ESGLZHZYBBDYRVB2WYYW75PMA){:download="Linear Regression.ipynb"}
+Part 2: Linear Regression: [![Part 2: Linear Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFPyGFlmemn5Z-xGLHrxpbu4KMCsilkN){:target="_blank"} [download](https://ml.compsci.school/Linear%20Regression.ipynb){:download="Linear Regression.ipynb"}
 
 Finally, the last part of the lab introduces you to what is a known as a _linear classifier_ (ask us why!), implemented with an algorithm called logistic regression:
 
-Part 3: Logistic Regression: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"} <a href="https://raw.githubusercontent.com/jonhare/ecs-taster-ml-labs/main/Logistic%20Regression.ipynb?token=GHSAT0AAAAAABWTI7ES7VRFWKX2CKJNABVQYW75U4A" download="Logistic Regression.ipynb">download</a>
+Part 3: Logistic Regression: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"} <a href="https://ml.compsci.school/Logistic%20Regression.ipynb" download="Logistic Regression.ipynb">download</a>
 
 Have fun & ask questions!
