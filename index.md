@@ -14,6 +14,6 @@ Part 2: Linear Regression: [![Part 2: Linear Regression](https://colab.research.
 
 Finally, the last part of the lab introduces you to what is a known as a _linear classifier_ (ask us why!), implemented with an algorithm called logistic regression:
 
-Part 3: Logistic Regression: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"} <a href="https://raw.githubusercontent.com/jonhare/ecs-taster-ml-labs/main/Logistic%20Regression.ipynb?token=GHSAT0AAAAAABWTI7ES7VRFWKX2CKJNABVQYW75U4A" download>download</a>
+Part 3: Logistic Regression: [![Part 3: Logistic Regression](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IB12Yfs1S6Liela9L3uuk2ghuH_SjXun){:target="_blank"} <a href="https://raw.githubusercontent.com/jonhare/ecs-taster-ml-labs/main/Logistic%20Regression.ipynb?token=GHSAT0AAAAAABWTI7ES7VRFWKX2CKJNABVQYW75U4A" download="Logistic Regression.ipynb">download</a>
 
 Have fun & ask questions!
