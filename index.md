@@ -1,4 +1,4 @@
-# ECS Taster 2022 Machine Learning Labs
+# ECS Taster 2023 Machine Learning Labs
 
 Earlier you had a lecture about how simple differentiation and an algorithm called gradient descent can be used to train the parameters of computer programs so they solve specific tasks. In this lab session we're going to explore this idea in more detail and build some machines (programs) that learn to make predictions from data - this is very much an introduction to topic of machine learning from the ground up.
 
